@@ -3,7 +3,9 @@ Haiku generator using random words from a syllable dictionary site. Hopefully, n
 
 ![image](https://user-images.githubusercontent.com/62976976/111896856-a1c6c900-89d9-11eb-9df4-fe9f07b75ea6.png)
 
-![image](https://user-images.githubusercontent.com/62976976/111896805-4ac0f400-89d9-11eb-91f4-15c73e396710.png)
+![image](https://user-images.githubusercontent.com/62976976/111897027-dbe49a80-89da-11eb-857d-2e340a43ea58.png)
+
+![image](https://user-images.githubusercontent.com/62976976/111897016-c66f7080-89da-11eb-946e-7f420d1e8e15.png)
 
 ![image](https://user-images.githubusercontent.com/62976976/111896923-1b5eb700-89da-11eb-8036-9078bb7147bf.png)
 
