@@ -1,5 +1,5 @@
 # Haiku Generator
-Haiku generator using random words from a syllable dictionary site. Hopefully, not many thought of doing it this way
+Haiku generator using random words from a syllable dictionary site. Haikus don't make much sense, but who knows, maybe a miracle/beautiful/godly haiku is formed through this
 
 -If I were to improve this, I would try to make my haikus more realistic by labelling words as verbs, nouns, etc. with PyDictionary and forming sentences as such
 
